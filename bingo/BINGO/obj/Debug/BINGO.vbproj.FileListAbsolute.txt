@@ -1,2 +1,3 @@
 E:\5to Año\Seminario\tp2\tp-no2-grupo06-5binfo\BINGO\BINGO\bin\Debug\BINGO.exe.config
 C:\Users\Alumno\Source\Repos\PioIX\tp-no2-grupo06-5binfo\bingo\BINGO\bin\Debug\BINGO.exe.config
+C:\Users\Alumno\Desktop\PioIX\tp-no2-grupo06-5binfo\bingo\BINGO\bin\Debug\BINGO.exe.config
